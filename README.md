@@ -1,6 +1,6 @@
  Oi! Bem-vindo(a) ao meu perfil! 🤙🏼
  
- ## 💻 Techn
+ ## 💻 Tech
  - Front-end skills:
   - HTML;
   - CSS;
