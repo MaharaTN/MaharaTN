@@ -5,12 +5,16 @@
 
 ## Stats Github
 
-<div align="justify">
+<div class="box">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaharaTN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaharaTN&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MaharaTN&show_icons=true&theme=panda&include_all_commits=true&count_private=true" align="middle"/>
 </div>
-
+<div >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaharaTN&repo=github-readme-stats&cache_seconds=86400&theme=panda" align="top"/>
+</div>
+<div class="box">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaharaTN&layout=compact&langs_count=7&theme=panda" align="bottom"/>
+</div>
 
  ## <img src="https://user-images.githubusercontent.com/83847649/150049439-bca60603-85fb-4568-bff8-a329483cff82.gif" width ="30" height="30"> Tech
  - Front-end skills:
@@ -28,7 +32,7 @@
 <br><br>
 
 
-## <img src="https://img.icons8.com/ultraviolet/2x/student-female.png" width ="30" height="30"> Estudante
+## <img src="https://user-images.githubusercontent.com/83847649/150053613-58b08fd3-29f9-4dca-96a3-b4316d9b88e8.gif" width ="40" height="40"> Estudante
 
 - Análise e Desenolvivemento de Sistemas - PUCPR
 - Domestika
@@ -40,7 +44,7 @@
 ## <img src= "https://user-images.githubusercontent.com/83847649/150048393-cf3b6d98-9adf-4d3b-ae99-c93a80196848.gif" width="40" height="40"> Habilidades
 <table><tr><td valing="top" width="33%">
   
-
+  ### Frontend
   <div align="center">
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" height="50"/>
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" height="50"/>
