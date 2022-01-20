@@ -5,15 +5,11 @@
 
 ## Stats Github
 
-<div class="box">
+<div style="display:table">
   <a href="https://github.com/rafaballerini">
-    <img src="https://github-readme-stats.vercel.app/api?username=MaharaTN&show_icons=true&theme=panda&include_all_commits=true&count_private=true" align="middle"/>
-</div>
-<div >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaharaTN&repo=github-readme-stats&cache_seconds=86400&theme=panda" align="top"/>
-</div>
-<div class="box">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaharaTN&layout=compact&langs_count=7&theme=panda" align="bottom"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MaharaTN&show_icons=true&theme=panda&include_all_commits=true&count_private=true" align="center" height="150em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaharaTN&layout=compact&langs_count=7&theme=panda" align="center" height="150em"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaharaTN&repo=github-readme-stats&cache_seconds=86400&theme=panda" align="center" height="130"/>
 </div>
 
  ## <img src="https://user-images.githubusercontent.com/83847649/150049439-bca60603-85fb-4568-bff8-a329483cff82.gif" width ="30" height="30"> Tech
@@ -21,7 +17,7 @@
   - HTML;
   - CSS;
   - Bootstrap;
-  - JS (ES6+);
+  - JS;
   - Biblioteca Reativa: VueJS;
 
 ---
