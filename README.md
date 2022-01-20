@@ -35,8 +35,6 @@
 - Alura
 <br>
 
-<br>
-
 ## <img src= "https://user-images.githubusercontent.com/83847649/150048393-cf3b6d98-9adf-4d3b-ae99-c93a80196848.gif" width="40" height="40"> Habilidades
 <table><tr><td valing="top" width="33%">
   
@@ -73,7 +71,3 @@
   </td></tr></table>
   
 <br> <br>
-
-
-
-    
